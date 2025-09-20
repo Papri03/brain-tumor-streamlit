@@ -18,7 +18,7 @@ The app allows users to upload an MRI scan and get a real-time prediction of tum
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://brain-tumor-app-blksijuvsdbwqhfrnfahxv.streamlit.app/)  
+👉 [Click here to try the App](https://brain-tumor-app-blksijuvsdbwqhfrnfahxv.streamlit.app/)  
 
 ---
 
