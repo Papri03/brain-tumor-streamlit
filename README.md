@@ -18,14 +18,14 @@ The app allows users to upload an MRI scan and get a real-time prediction of tum
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://your-app-name.streamlit.app)  
+👉 [Click here to try the app](https://brain-tumor-app-blksijuvsdbwqhfrnfahxv.streamlit.app/)  
 
 ---
 
 ## ⚙️ Installation & Usage
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR_USERNAME/brain-tumor-streamlit.git
+git clone https://github.com/Papri03/brain-tumor-streamlit
 cd brain-tumor-streamlit
 pip install -r requirements.txt
 
