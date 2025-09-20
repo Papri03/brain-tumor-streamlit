@@ -1,13 +1,32 @@
-# Brain Tumor Detection Web App
+# 🧠 Brain Tumor Detection – Streamlit App
 
-This project is an **end-to-end brain tumor detection system** built using **TensorFlow/Keras** and deployed as a **Streamlit web application**. The app predicts the type of brain tumor from MRI scans in real-time and maintains a dashboard log of predictions.
+This project is a **deep learning-based brain tumor detection system** built with **Keras/TensorFlow** and deployed using **Streamlit**.  
+The app allows users to upload an MRI scan and get a real-time prediction of tumor type with confidence scores.  
 
-## Features
+---
 
-- Multi-class MRI classification: `No Tumor`, `Pituitary`, `Meningioma`, `Glioma`
-- Real-time predictions with confidence scores
-- Dashboard to track all uploaded images and predictions
-- Option to use a demo MRI image for testing
+## 🔍 Features
+- Upload MRI scans or use demo images  
+- Classifies into **4 categories**:  
+  - No Tumor  
+  - Pituitary Tumor  
+  - Meningioma Tumor  
+  - Glioma Tumor  
+- Displays confidence score with progress bar  
+- Maintains a session-based prediction log  
 
-## Project Structure
+---
+
+## 🚀 Live Demo
+👉 [Click here to try the app](https://your-app-name.streamlit.app)  
+
+---
+
+## ⚙️ Installation & Usage
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/YOUR_USERNAME/brain-tumor-streamlit.git
+cd brain-tumor-streamlit
+pip install -r requirements.txt
+
 
